@@ -1,2 +1,2 @@
-# zoe-api-test-vanilla.js
+# zoe-api-tests
 Created with CodeSandbox
